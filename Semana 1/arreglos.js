@@ -1,4 +1,4 @@
-let lista = ["hola", "como", "estas"]
+    let lista = ["hola", "como", "estas"]
 
 console.log(lista)
 
